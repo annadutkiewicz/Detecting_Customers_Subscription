@@ -32,7 +32,13 @@
 - Removing identifiers
 - Feature scaling
 8. Model building
-
+- Fitting model to the training set
+- Predicting test set
+- Evaluating results
+- Print confusion matrix
+- Print heatmap
+- Print classification report
+- Formatting final results
 
 ### Conclusions
 1. ABC
