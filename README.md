@@ -1,9 +1,7 @@
 ## Detecting_Customers_Subscription
 ### Description
 
-**The aim is to predict **
-
-
+**The company provides a mobile app which has both free and paid version of the product. The aim is to predict which users will subscribe to paid membership.**
 
 ### Workflow
 1. Data import
