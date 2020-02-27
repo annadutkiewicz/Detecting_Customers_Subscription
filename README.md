@@ -27,7 +27,10 @@
 - Mapping screens to fields
 - Funnels
 7. Data preprocessing
-- ABC
+- Splitting independent and response variables
+- Splitting the dataset into the training set and test set
+- Removing identifiers
+- Feature scaling
 8. Model building
 
 
