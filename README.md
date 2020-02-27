@@ -16,9 +16,7 @@
 3. Data visualizing
 - Plot histogram
 4. Correlation with response
-- ABC
 5. Correlation matrix
-- ABC
 6. Feature engineering
 - ABC
 7. Data preprocessing
