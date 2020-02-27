@@ -17,8 +17,15 @@
 - Plot histogram
 4. Correlation with response
 5. Correlation matrix
+- Compute the correlation matrix
+- Generate a mask for the upper triangle
+- Draw the heatmap with the mask and correct aspect ratio
 6. Feature engineering
-- ABC
+- Formatting date columns
+- Selecting time for response
+- Load top screens
+- Mapping screens to fields
+- Funnels
 7. Data preprocessing
 - ABC
 8. Model building
